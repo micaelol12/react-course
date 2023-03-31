@@ -1,0 +1,23 @@
+.new-user__control{
+  margin-bottom: 0.5rem;
+}
+.new-user__control label{
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.new-user__control input{
+  font: inherit;
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 0.15rem;
+  margin-bottom: 0.5rem;
+}
+
+
+.new-user__control input:focus {
+  outline: none;
+  border-color: #4f005f;
+}
